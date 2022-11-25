@@ -102,10 +102,15 @@ Make sure you have [NodeJs](https://nodejs.org) installed.
    ```sh
    npm install
    ```
-3. Run the following command.
+3. Run the following command
    ```sh
-   npm run dev
+   npm start
    ```
+4. A new tab on your browser will be open with the URL
+   ```
+   localhost:3000
+   ```
+   Or just navigate to this URL on your browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,9 +118,9 @@ Make sure you have [NodeJs](https://nodejs.org) installed.
 
 ## Roadmap
 
-- [ ] HTML Structure
-- [ ] Mobile Design
-- [ ] Desktop Design
+- [x] HTML Structure
+- [x] Mobile Design
+- [x] Desktop Design
 
 See the [open issues](https://github.com/juan-galdino/stats-preview-component/issues) for a full list of proposed features (and known issues).
 
