@@ -1,0 +1,57 @@
+@use '../utils/' as *;
+
+.card__text {
+  padding: 2rem;
+
+  @media screen and (min-width: 90em) {
+    grid-column-start: 1;
+    padding: 4rem;
+  }
+
+  strong {
+    color: $accentColor;
+  }
+
+  h1 {
+    font-size: 2.25rem;
+    margin-bottom: 1rem;
+
+    @media screen and (min-width: 90em) {
+      margin-bottom: 2rem;
+    }
+  }
+
+  p {
+    font-size: 1rem;
+    color: $paragraphColor;
+    margin-bottom: 2.5rem;
+    line-height: 1.5;
+
+    @media screen and (min-width: 90em) {
+      margin-bottom: 4rem;
+    }
+  }
+
+  article {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    @media screen and (min-width: 90em) {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+    section {
+      display: grid;
+      gap: 0.5rem;
+    }
+  }
+  
+  span {
+    text-transform: uppercase;
+    color: $statsTextsColor;
+    font-family: 'Lexend Deca', sans-serif;
+  }
+
+}
