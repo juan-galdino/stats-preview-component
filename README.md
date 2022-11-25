@@ -113,9 +113,9 @@ Make sure you have [NodeJs](https://nodejs.org) installed.
 
 ## Roadmap
 
-- [] HTML Structure
-- [] Mobile Design
-- [] Desktop Design
+- [ ] HTML Structure
+- [ ] Mobile Design
+- [ ] Desktop Design
 
 See the [open issues](https://github.com/juan-galdino/stats-preview-component/issues) for a full list of proposed features (and known issues).
 
