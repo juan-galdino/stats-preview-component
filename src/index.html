@@ -11,6 +11,14 @@
 
     <title>Frontend Mentor | Stats preview card component</title>
 
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap"
+      rel="stylesheet"
+    />
+
     <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
     <style>
       .attribution {
@@ -25,8 +33,21 @@
   <body>
     <main>
       <article class="card">
-        <aside></aside>
-        <section>
+        <aside>
+          <picture>
+            <source
+              media="min-width: 48em"
+              srcset="images/image-header-desktop.jpg"
+            />
+            <img
+              src="images/image-header-mobile.jpg"
+              alt="Three women at a table working with 
+                laptops in front of them."
+              loading="lazy"
+            />
+          </picture>
+        </aside>
+        <section class="card__text">
           <h1>Get <strong>insights</strong> that help your business grow.</h1>
           <p>
             Discover the benefits of data analytics and make better decisions
