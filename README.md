@@ -72,7 +72,7 @@
 ![Stats preview Screen Shot][page-screenshot]
 
 This project is just a way to solve this challenge from [Frontend Mentor][frontend-mentor-url],
-a place where are a lot of challenges for every level of frontend skills. The objective is to reproduce in code the same image above.
+a place where are a lot of challenges for every level of frontend skills. The image above is the current screenshot of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
