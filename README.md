@@ -32,7 +32,7 @@
     <a href="https://github.com/juan-galdino/stats-preview-component"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/juan-galdino/stats-preview-component">View Demo</a>
+    <a href="https://statspreviewchallenge.netlify.app/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/juan-galdino/stats-preview-component/issues">Report Bug</a>
     ·
@@ -157,7 +157,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Juan Galdino - jgaldino.cs@gmail.com
 
-Project Link: [https://github.com/juan-galdino/stats-preview-component](https://github.com/juan-galdino/stats-preview-component)
+Demo Link: <a href="https://statspreviewchallenge.netlify.app" target="_blank">https://statspreviewchallenge.netlify.app</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
