@@ -69,7 +69,7 @@
 
 ## About The Project
 
-![Stats preview Screen Shot][stats-screenshot]
+![Stats preview Screen Shot][page-screenshot]
 
 This project is just a way to solve this challenge from [Frontend Mentor][frontend-mentor-url],
 a place where are a lot of challenges for every level of frontend skills. The objective is to reproduce in code the same image above.
@@ -186,7 +186,7 @@ Project Link: [https://github.com/juan-galdino/stats-preview-component](https://
 [license-url]: https://github.com/juan-galdino/stats-preview-component/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/juangaldino
-[stats-screenshot]: src/images/stats-screenshot.jpg
+[page-screenshot]: src/images/page-screenshot.png
 [sass-shield]: https://img.shields.io/badge/Sass-BF4080?style=for-the-badge&logo=sass&logoColor=white
 [sass-url]: sass-lang.com
 [gitmoji-shield]: https://img.shields.io/badge/gitmoji-%20%F0%9F%98%9C%20%F0%9F%98%8D-FFDD67.svg?style=for-the-badge
