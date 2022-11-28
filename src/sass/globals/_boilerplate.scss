@@ -18,3 +18,9 @@ body {
   color: $fontColor;
   padding-inline: 1rem;
 }
+
+.container {
+  display: grid;
+  justify-content: center;
+  margin: 20vh 0;
+}
